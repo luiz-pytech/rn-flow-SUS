@@ -62,15 +62,15 @@
     </node>
     <node id="240050">
       <data key="d0">Alexandria</data>
-      <data key="d1">2985</data>
+      <data key="d1">2975</data>
       <data key="d2">2476</data>
-      <data key="d3">0.8294807370184255</data>
+      <data key="d3">0.8322689075630252</data>
       <data key="d4">124</data>
       <data key="d5">9</data>
       <data key="d6">2249</data>
-      <data key="d7">509</data>
+      <data key="d7">499</data>
       <data key="d8">Mossoró</data>
-      <data key="d9">0.3477406679764244</data>
+      <data key="d9">0.35470941883767537</data>
     </node>
     <node id="240060">
       <data key="d0">Almino Afonso</data>
@@ -122,27 +122,27 @@
     </node>
     <node id="240100">
       <data key="d0">Apodi</data>
-      <data key="d1">2615</data>
+      <data key="d1">2612</data>
       <data key="d2">1060</data>
-      <data key="d3">0.40535372848948376</data>
+      <data key="d3">0.4058192955589586</data>
       <data key="d4">52</data>
       <data key="d5">14</data>
       <data key="d6">408</data>
-      <data key="d7">1555</data>
+      <data key="d7">1552</data>
       <data key="d8">Mossoró</data>
-      <data key="d9">0.6636655948553055</data>
+      <data key="d9">0.6630154639175257</data>
     </node>
     <node id="240110">
       <data key="d0">Areia Branca</data>
-      <data key="d1">1690</data>
+      <data key="d1">1686</data>
       <data key="d2">535</data>
-      <data key="d3">0.3165680473372781</data>
+      <data key="d3">0.31731909845788847</data>
       <data key="d4">1</data>
       <data key="d5">15</data>
       <data key="d6">6</data>
-      <data key="d7">1155</data>
+      <data key="d7">1151</data>
       <data key="d8">Mossoró</data>
-      <data key="d9">0.7948051948051948</data>
+      <data key="d9">0.794092093831451</data>
     </node>
     <node id="240120">
       <data key="d0">Arez</data>
@@ -158,15 +158,15 @@
     </node>
     <node id="240130">
       <data key="d0">Campo Grande</data>
-      <data key="d1">488</data>
+      <data key="d1">486</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">11</data>
       <data key="d6">0</data>
-      <data key="d7">488</data>
+      <data key="d7">486</data>
       <data key="d8">Mossoró</data>
-      <data key="d9">0.6209016393442623</data>
+      <data key="d9">0.6193415637860082</data>
     </node>
     <node id="240140">
       <data key="d0">Baía Formosa</data>
@@ -182,15 +182,15 @@
     </node>
     <node id="240145">
       <data key="d0">Baraúna</data>
-      <data key="d1">1814</data>
+      <data key="d1">1813</data>
       <data key="d2">370</data>
-      <data key="d3">0.2039691289966924</data>
+      <data key="d3">0.20408163265306123</data>
       <data key="d4">2</data>
       <data key="d5">11</data>
       <data key="d6">3</data>
-      <data key="d7">1444</data>
+      <data key="d7">1443</data>
       <data key="d8">Mossoró</data>
-      <data key="d9">0.7763157894736842</data>
+      <data key="d9">0.7761607761607762</data>
     </node>
     <node id="240150">
       <data key="d0">Barcelona</data>
@@ -206,15 +206,15 @@
     </node>
     <node id="240160">
       <data key="d0">Bento Fernandes</data>
-      <data key="d1">357</data>
+      <data key="d1">343</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">12</data>
       <data key="d6">0</data>
-      <data key="d7">357</data>
+      <data key="d7">343</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.6134453781512605</data>
+      <data key="d9">0.597667638483965</data>
     </node>
     <node id="240165">
       <data key="d0">Bodó</data>
@@ -230,27 +230,27 @@
     </node>
     <node id="240170">
       <data key="d0">Bom Jesus</data>
-      <data key="d1">686</data>
+      <data key="d1">682</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">12</data>
       <data key="d6">0</data>
-      <data key="d7">686</data>
+      <data key="d7">682</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.5276967930029155</data>
+      <data key="d9">0.5249266862170088</data>
     </node>
     <node id="240180">
       <data key="d0">Brejinho</data>
-      <data key="d1">961</data>
+      <data key="d1">959</data>
       <data key="d2">94</data>
-      <data key="d3">0.09781477627471384</data>
+      <data key="d3">0.09801876955161627</data>
       <data key="d4">1</data>
       <data key="d5">10</data>
       <data key="d6">1</data>
-      <data key="d7">867</data>
+      <data key="d7">865</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.6378316032295271</data>
+      <data key="d9">0.6369942196531792</data>
     </node>
     <node id="240185">
       <data key="d0">Caiçara do Norte</data>
@@ -266,15 +266,15 @@
     </node>
     <node id="240190">
       <data key="d0">Caiçara do Rio do Vento</data>
-      <data key="d1">319</data>
+      <data key="d1">317</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">10</data>
       <data key="d6">0</data>
-      <data key="d7">319</data>
+      <data key="d7">317</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.7586206896551724</data>
+      <data key="d9">0.7570977917981072</data>
     </node>
     <node id="240200">
       <data key="d0">Caicó</data>
@@ -290,39 +290,39 @@
     </node>
     <node id="240210">
       <data key="d0">Campo Redondo</data>
-      <data key="d1">608</data>
+      <data key="d1">605</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">11</data>
       <data key="d6">0</data>
-      <data key="d7">608</data>
+      <data key="d7">605</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.45230263157894735</data>
+      <data key="d9">0.44958677685950416</data>
     </node>
     <node id="240220">
       <data key="d0">Canguaretama</data>
-      <data key="d1">1883</data>
+      <data key="d1">1878</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">12</data>
       <data key="d6">0</data>
-      <data key="d7">1883</data>
+      <data key="d7">1878</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.6096654275092936</data>
+      <data key="d9">0.6086261980830671</data>
     </node>
     <node id="240230">
       <data key="d0">Caraúbas</data>
-      <data key="d1">1388</data>
+      <data key="d1">1387</data>
       <data key="d2">406</data>
-      <data key="d3">0.29250720461095103</data>
+      <data key="d3">0.2927180966113915</data>
       <data key="d4">27</data>
       <data key="d5">14</data>
       <data key="d6">133</data>
-      <data key="d7">982</data>
+      <data key="d7">981</data>
       <data key="d8">Mossoró</data>
-      <data key="d9">0.7067209775967414</data>
+      <data key="d9">0.7074413863404689</data>
     </node>
     <node id="240240">
       <data key="d0">Carnaúba dos Dantas</data>
@@ -350,27 +350,27 @@
     </node>
     <node id="240260">
       <data key="d0">Ceará-Mirim</data>
-      <data key="d1">5971</data>
+      <data key="d1">5942</data>
       <data key="d2">2886</data>
-      <data key="d3">0.4833361246022442</data>
+      <data key="d3">0.4856950521709862</data>
       <data key="d4">37</data>
       <data key="d5">16</data>
       <data key="d6">1460</data>
-      <data key="d7">3085</data>
+      <data key="d7">3056</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.8849270664505673</data>
+      <data key="d9">0.8838350785340314</data>
     </node>
     <node id="240270">
       <data key="d0">Cerro Corá</data>
-      <data key="d1">743</data>
+      <data key="d1">742</data>
       <data key="d2">77</data>
-      <data key="d3">0.10363391655450875</data>
+      <data key="d3">0.10377358490566038</data>
       <data key="d4">2</data>
       <data key="d5">9</data>
       <data key="d6">4</data>
-      <data key="d7">666</data>
+      <data key="d7">665</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.44594594594594594</data>
+      <data key="d9">0.44511278195488724</data>
     </node>
     <node id="240280">
       <data key="d0">Coronel Ezequiel</data>
@@ -410,15 +410,15 @@
     </node>
     <node id="240310">
       <data key="d0">Currais Novos</data>
-      <data key="d1">2619</data>
+      <data key="d1">2606</data>
       <data key="d2">1425</data>
-      <data key="d3">0.5441008018327605</data>
+      <data key="d3">0.546815042210284</data>
       <data key="d4">145</data>
       <data key="d5">9</data>
       <data key="d6">3382</data>
-      <data key="d7">1194</data>
+      <data key="d7">1181</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.8257956448911222</data>
+      <data key="d9">0.8238780694326842</data>
     </node>
     <node id="240320">
       <data key="d0">Doutor Severiano</data>
@@ -434,15 +434,15 @@
     </node>
     <node id="240325">
       <data key="d0">Parnamirim</data>
-      <data key="d1">11333</data>
+      <data key="d1">11268</data>
       <data key="d2">4620</data>
-      <data key="d3">0.4076590487955528</data>
+      <data key="d3">0.410010649627263</data>
       <data key="d4">154</data>
       <data key="d5">19</data>
       <data key="d6">4981</data>
-      <data key="d7">6713</data>
+      <data key="d7">6648</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.9660360494562789</data>
+      <data key="d9">0.9657039711191335</data>
     </node>
     <node id="240330">
       <data key="d0">Encanto</data>
@@ -470,27 +470,27 @@
     </node>
     <node id="240350">
       <data key="d0">Espírito Santo</data>
-      <data key="d1">623</data>
+      <data key="d1">615</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">9</data>
       <data key="d6">0</data>
-      <data key="d7">623</data>
+      <data key="d7">615</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.5489566613162119</data>
+      <data key="d9">0.5430894308943089</data>
     </node>
     <node id="240360">
       <data key="d0">Extremoz</data>
-      <data key="d1">3196</data>
+      <data key="d1">3177</data>
       <data key="d2">300</data>
-      <data key="d3">0.09386733416770963</data>
+      <data key="d3">0.09442870632672333</data>
       <data key="d4">2</data>
       <data key="d5">16</data>
       <data key="d6">5</data>
-      <data key="d7">2896</data>
+      <data key="d7">2877</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.8156077348066298</data>
+      <data key="d9">0.8143899895724713</data>
     </node>
     <node id="240370">
       <data key="d0">Felipe Guerra</data>
@@ -566,15 +566,15 @@
     </node>
     <node id="240420">
       <data key="d0">Goianinha</data>
-      <data key="d1">1914</data>
+      <data key="d1">1912</data>
       <data key="d2">220</data>
-      <data key="d3">0.11494252873563218</data>
+      <data key="d3">0.11506276150627615</data>
       <data key="d4">0</data>
       <data key="d5">11</data>
       <data key="d6">0</data>
-      <data key="d7">1694</data>
+      <data key="d7">1692</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.5578512396694215</data>
+      <data key="d9">0.5573286052009456</data>
     </node>
     <node id="240430">
       <data key="d0">Governador Dix-Sept Rosado</data>
@@ -590,39 +590,39 @@
     </node>
     <node id="240440">
       <data key="d0">Grossos</data>
-      <data key="d1">606</data>
+      <data key="d1">605</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">8</data>
       <data key="d6">0</data>
-      <data key="d7">606</data>
+      <data key="d7">605</data>
       <data key="d8">Mossoró</data>
-      <data key="d9">0.7128712871287128</data>
+      <data key="d9">0.7123966942148761</data>
     </node>
     <node id="240450">
       <data key="d0">Guamaré</data>
-      <data key="d1">1642</data>
+      <data key="d1">1640</data>
       <data key="d2">840</data>
-      <data key="d3">0.5115712545676004</data>
+      <data key="d3">0.5121951219512195</data>
       <data key="d4">22</data>
       <data key="d5">12</data>
       <data key="d6">67</data>
-      <data key="d7">802</data>
+      <data key="d7">800</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.8453865336658354</data>
+      <data key="d9">0.845</data>
     </node>
     <node id="240460">
       <data key="d0">Ielmo Marinho</data>
-      <data key="d1">555</data>
+      <data key="d1">550</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">14</data>
       <data key="d6">0</data>
-      <data key="d7">555</data>
+      <data key="d7">550</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.6990990990990991</data>
+      <data key="d9">0.6963636363636364</data>
     </node>
     <node id="240470">
       <data key="d0">Ipanguaçu</data>
@@ -674,15 +674,15 @@
     </node>
     <node id="240500">
       <data key="d0">Jaçanã</data>
-      <data key="d1">554</data>
+      <data key="d1">551</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">10</data>
       <data key="d6">0</data>
-      <data key="d7">554</data>
+      <data key="d7">551</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.5180505415162455</data>
+      <data key="d9">0.515426497277677</data>
     </node>
     <node id="240510">
       <data key="d0">Jandaíra</data>
@@ -710,15 +710,15 @@
     </node>
     <node id="240530">
       <data key="d0">Januário Cicco</data>
-      <data key="d1">513</data>
+      <data key="d1">512</data>
       <data key="d2">62</data>
-      <data key="d3">0.12085769980506822</data>
+      <data key="d3">0.12109375</data>
       <data key="d4">1</data>
       <data key="d5">11</data>
       <data key="d6">1</data>
-      <data key="d7">451</data>
+      <data key="d7">450</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.5188470066518847</data>
+      <data key="d9">0.5177777777777778</data>
     </node>
     <node id="240540">
       <data key="d0">Japi</data>
@@ -770,15 +770,15 @@
     </node>
     <node id="240580">
       <data key="d0">João Câmara</data>
-      <data key="d1">2205</data>
+      <data key="d1">2199</data>
       <data key="d2">343</data>
-      <data key="d3">0.15555555555555556</data>
+      <data key="d3">0.1559799909049568</data>
       <data key="d4">57</data>
       <data key="d5">15</data>
       <data key="d6">862</data>
-      <data key="d7">1862</data>
+      <data key="d7">1856</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.7287862513426423</data>
+      <data key="d9">0.7279094827586207</data>
     </node>
     <node id="240590">
       <data key="d0">João Dias</data>
@@ -818,27 +818,27 @@
     </node>
     <node id="240615">
       <data key="d0">Jundiá</data>
-      <data key="d1">309</data>
+      <data key="d1">297</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">9</data>
       <data key="d6">0</data>
-      <data key="d7">309</data>
+      <data key="d7">297</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.44983818770226536</data>
+      <data key="d9">0.4276094276094276</data>
     </node>
     <node id="240620">
       <data key="d0">Lagoa d'Anta</data>
-      <data key="d1">431</data>
+      <data key="d1">428</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">8</data>
       <data key="d6">0</data>
-      <data key="d7">431</data>
+      <data key="d7">428</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.5568445475638051</data>
+      <data key="d9">0.5537383177570093</data>
     </node>
     <node id="240630">
       <data key="d0">Lagoa de Pedras</data>
@@ -854,15 +854,15 @@
     </node>
     <node id="240640">
       <data key="d0">Lagoa de Velhos</data>
-      <data key="d1">157</data>
+      <data key="d1">156</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">10</data>
       <data key="d6">0</data>
-      <data key="d7">157</data>
+      <data key="d7">156</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.47770700636942676</data>
+      <data key="d9">0.47435897435897434</data>
     </node>
     <node id="240650">
       <data key="d0">Lagoa Nova</data>
@@ -938,27 +938,27 @@
     </node>
     <node id="240710">
       <data key="d0">Macaíba</data>
-      <data key="d1">4159</data>
+      <data key="d1">4148</data>
       <data key="d2">656</data>
-      <data key="d3">0.15773022361144506</data>
+      <data key="d3">0.15814850530376084</data>
       <data key="d4">66</data>
       <data key="d5">11</data>
       <data key="d6">1062</data>
-      <data key="d7">3503</data>
+      <data key="d7">3492</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.8735369683128746</data>
+      <data key="d9">0.8731386025200458</data>
     </node>
     <node id="240720">
       <data key="d0">Macau</data>
-      <data key="d1">1686</data>
+      <data key="d1">1671</data>
       <data key="d2">548</data>
-      <data key="d3">0.3250296559905101</data>
+      <data key="d3">0.3279473369239976</data>
       <data key="d4">4</data>
       <data key="d5">14</data>
       <data key="d6">4</data>
-      <data key="d7">1138</data>
+      <data key="d7">1123</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.8189806678383128</data>
+      <data key="d9">0.8165627782724845</data>
     </node>
     <node id="240725">
       <data key="d0">Major Sales</data>
@@ -998,15 +998,15 @@
     </node>
     <node id="240750">
       <data key="d0">Maxaranguape</data>
-      <data key="d1">594</data>
+      <data key="d1">592</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">11</data>
       <data key="d6">0</data>
-      <data key="d7">594</data>
+      <data key="d7">592</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.7037037037037037</data>
+      <data key="d9">0.7027027027027027</data>
     </node>
     <node id="240760">
       <data key="d0">Messias Targino</data>
@@ -1034,15 +1034,15 @@
     </node>
     <node id="240780">
       <data key="d0">Monte Alegre</data>
-      <data key="d1">1779</data>
+      <data key="d1">1761</data>
       <data key="d2">351</data>
-      <data key="d3">0.1973018549747049</data>
+      <data key="d3">0.19931856899488926</data>
       <data key="d4">3</data>
       <data key="d5">11</data>
       <data key="d6">5</data>
-      <data key="d7">1428</data>
+      <data key="d7">1410</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.6603641456582633</data>
+      <data key="d9">0.6560283687943262</data>
     </node>
     <node id="240790">
       <data key="d0">Monte das Gameleiras</data>
@@ -1058,51 +1058,51 @@
     </node>
     <node id="240800">
       <data key="d0">Mossoró</data>
-      <data key="d1">14438</data>
-      <data key="d2">12952</data>
-      <data key="d3">0.8970771575010389</data>
+      <data key="d1">14407</data>
+      <data key="d2">12921</data>
+      <data key="d3">0.8968556951481919</data>
       <data key="d4">99</data>
       <data key="d5">18</data>
-      <data key="d6">14891</data>
+      <data key="d6">14877</data>
       <data key="d7">1486</data>
       <data key="d8">Natal</data>
       <data key="d9">0.48183041722745623</data>
     </node>
     <node id="240810">
       <data key="d0">Natal</data>
-      <data key="d1">48335</data>
-      <data key="d2">46527</data>
-      <data key="d3">0.9625943932967829</data>
+      <data key="d1">47930</data>
+      <data key="d2">46122</data>
+      <data key="d3">0.9622783225537241</data>
       <data key="d4">166</data>
       <data key="d5">27</data>
-      <data key="d6">61950</data>
+      <data key="d6">61527</data>
       <data key="d7">1808</data>
       <data key="d8">Parnamirim</data>
       <data key="d9">0.6808628318584071</data>
     </node>
     <node id="240820">
       <data key="d0">Nísia Floresta</data>
-      <data key="d1">1692</data>
+      <data key="d1">1686</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">12</data>
       <data key="d6">0</data>
-      <data key="d7">1692</data>
+      <data key="d7">1686</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.6081560283687943</data>
+      <data key="d9">0.6067615658362989</data>
     </node>
     <node id="240830">
       <data key="d0">Nova Cruz</data>
-      <data key="d1">2214</data>
+      <data key="d1">2186</data>
       <data key="d2">357</data>
-      <data key="d3">0.16124661246612465</data>
+      <data key="d3">0.16331198536139066</data>
       <data key="d4">1</data>
       <data key="d5">9</data>
       <data key="d6">4</data>
-      <data key="d7">1857</data>
+      <data key="d7">1829</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.5988152934841141</data>
+      <data key="d9">0.5926735921268452</data>
     </node>
     <node id="240840">
       <data key="d0">Olho d'Água do Borges</data>
@@ -1238,15 +1238,15 @@
     </node>
     <node id="240940">
       <data key="d0">Pau dos Ferros</data>
-      <data key="d1">2171</data>
+      <data key="d1">2170</data>
       <data key="d2">1477</data>
-      <data key="d3">0.6803316444035007</data>
+      <data key="d3">0.6806451612903226</data>
       <data key="d4">66</data>
       <data key="d5">10</data>
       <data key="d6">5150</data>
-      <data key="d7">694</data>
+      <data key="d7">693</data>
       <data key="d8">Mossoró</data>
-      <data key="d9">0.4755043227665706</data>
+      <data key="d9">0.47474747474747475</data>
     </node>
     <node id="240950">
       <data key="d0">Pedra Grande</data>
@@ -1286,15 +1286,15 @@
     </node>
     <node id="240980">
       <data key="d0">Pedro Velho</data>
-      <data key="d1">975</data>
+      <data key="d1">964</data>
       <data key="d2">95</data>
-      <data key="d3">0.09743589743589744</data>
+      <data key="d3">0.09854771784232365</data>
       <data key="d4">0</data>
       <data key="d5">13</data>
       <data key="d6">0</data>
-      <data key="d7">880</data>
+      <data key="d7">869</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.6113636363636363</data>
+      <data key="d9">0.6064441887226697</data>
     </node>
     <node id="240990">
       <data key="d0">Pendências</data>
@@ -1322,15 +1322,15 @@
     </node>
     <node id="241010">
       <data key="d0">Poço Branco</data>
-      <data key="d1">770</data>
+      <data key="d1">761</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">13</data>
       <data key="d6">0</data>
-      <data key="d7">770</data>
+      <data key="d7">761</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.6662337662337663</data>
+      <data key="d9">0.6622864651773982</data>
     </node>
     <node id="241020">
       <data key="d0">Portalegre</data>
@@ -1478,15 +1478,15 @@
     </node>
     <node id="241120">
       <data key="d0">Santa Cruz</data>
-      <data key="d1">3403</data>
+      <data key="d1">3402</data>
       <data key="d2">1860</data>
-      <data key="d3">0.5465765501028504</data>
+      <data key="d3">0.54673721340388</data>
       <data key="d4">111</data>
       <data key="d5">16</data>
       <data key="d6">4083</data>
-      <data key="d7">1543</data>
+      <data key="d7">1542</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.7952041477640959</data>
+      <data key="d9">0.795071335927367</data>
     </node>
     <node id="241140">
       <data key="d0">Santana do Matos</data>
@@ -1514,15 +1514,15 @@
     </node>
     <node id="241150">
       <data key="d0">Santo Antônio</data>
-      <data key="d1">1757</data>
+      <data key="d1">1745</data>
       <data key="d2">574</data>
-      <data key="d3">0.32669322709163345</data>
+      <data key="d3">0.3289398280802292</data>
       <data key="d4">37</data>
       <data key="d5">11</data>
       <data key="d6">2303</data>
-      <data key="d7">1183</data>
+      <data key="d7">1171</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.6593406593406593</data>
+      <data key="d9">0.6558497011101623</data>
     </node>
     <node id="241160">
       <data key="d0">São Bento do Norte</data>
@@ -1574,39 +1574,39 @@
     </node>
     <node id="241200">
       <data key="d0">São Gonçalo do Amarante</data>
-      <data key="d1">8495</data>
+      <data key="d1">8489</data>
       <data key="d2">4104</data>
-      <data key="d3">0.48310771041789285</data>
+      <data key="d3">0.48344916951348804</data>
       <data key="d4">10</data>
       <data key="d5">14</data>
       <data key="d6">93</data>
-      <data key="d7">4391</data>
+      <data key="d7">4385</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.8647232976542929</data>
+      <data key="d9">0.8645381984036488</data>
     </node>
     <node id="241210">
       <data key="d0">São João do Sabugi</data>
-      <data key="d1">382</data>
+      <data key="d1">381</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">4</data>
       <data key="d6">0</data>
-      <data key="d7">382</data>
+      <data key="d7">381</data>
       <data key="d8">Caicó</data>
-      <data key="d9">0.643979057591623</data>
+      <data key="d9">0.6456692913385826</data>
     </node>
     <node id="241220">
       <data key="d0">São José de Mipibu</data>
-      <data key="d1">3308</data>
+      <data key="d1">3261</data>
       <data key="d2">646</data>
-      <data key="d3">0.19528415961305925</data>
+      <data key="d3">0.198098742716958</data>
       <data key="d4">58</data>
       <data key="d5">14</data>
       <data key="d6">3899</data>
-      <data key="d7">2662</data>
+      <data key="d7">2615</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.7772351615326822</data>
+      <data key="d9">0.7732313575525812</data>
     </node>
     <node id="241230">
       <data key="d0">São José do Campestre</data>
@@ -1646,15 +1646,15 @@
     </node>
     <node id="241255">
       <data key="d0">São Miguel do Gostoso</data>
-      <data key="d1">736</data>
+      <data key="d1">733</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">12</data>
       <data key="d6">0</data>
-      <data key="d7">736</data>
+      <data key="d7">733</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.6929347826086957</data>
+      <data key="d9">0.6916780354706685</data>
     </node>
     <node id="241260">
       <data key="d0">São Paulo do Potengi</data>
@@ -1706,27 +1706,27 @@
     </node>
     <node id="241300">
       <data key="d0">São Vicente</data>
-      <data key="d1">526</data>
+      <data key="d1">523</data>
       <data key="d2">57</data>
-      <data key="d3">0.10836501901140684</data>
+      <data key="d3">0.1089866156787763</data>
       <data key="d4">0</data>
       <data key="d5">7</data>
       <data key="d6">0</data>
-      <data key="d7">469</data>
+      <data key="d7">466</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.47761194029850745</data>
+      <data key="d9">0.4742489270386266</data>
     </node>
     <node id="241310">
       <data key="d0">Senador Elói de Souza</data>
-      <data key="d1">359</data>
+      <data key="d1">358</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">10</data>
       <data key="d6">0</data>
-      <data key="d7">359</data>
+      <data key="d7">358</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.5348189415041783</data>
+      <data key="d9">0.5335195530726257</data>
     </node>
     <node id="241320">
       <data key="d0">Senador Georgino Avelino</data>
@@ -1742,15 +1742,15 @@
     </node>
     <node id="241330">
       <data key="d0">Serra de São Bento</data>
-      <data key="d1">428</data>
+      <data key="d1">427</data>
       <data key="d2">17</data>
-      <data key="d3">0.0397196261682243</data>
+      <data key="d3">0.03981264637002342</data>
       <data key="d4">0</data>
       <data key="d5">8</data>
       <data key="d6">0</data>
-      <data key="d7">411</data>
+      <data key="d7">410</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.5693430656934306</data>
+      <data key="d9">0.5682926829268292</data>
     </node>
     <node id="241335">
       <data key="d0">Serra do Mel</data>
@@ -1802,15 +1802,15 @@
     </node>
     <node id="241360">
       <data key="d0">Severiano Melo</data>
-      <data key="d1">377</data>
+      <data key="d1">376</data>
       <data key="d2">58</data>
-      <data key="d3">0.15384615384615385</data>
+      <data key="d3">0.15425531914893617</data>
       <data key="d4">0</data>
       <data key="d5">9</data>
       <data key="d6">0</data>
-      <data key="d7">319</data>
+      <data key="d7">318</data>
       <data key="d8">Pau dos Ferros</data>
-      <data key="d9">0.32601880877742945</data>
+      <data key="d9">0.3270440251572327</data>
     </node>
     <node id="241370">
       <data key="d0">Sítio Novo</data>
@@ -1838,15 +1838,15 @@
     </node>
     <node id="241390">
       <data key="d0">Taipu</data>
-      <data key="d1">659</data>
+      <data key="d1">658</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">13</data>
       <data key="d6">0</data>
-      <data key="d7">659</data>
+      <data key="d7">658</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.6676783004552352</data>
+      <data key="d9">0.6671732522796353</data>
     </node>
     <node id="241400">
       <data key="d0">Tangará</data>
@@ -1886,15 +1886,15 @@
     </node>
     <node id="241420">
       <data key="d0">Tibau do Sul</data>
-      <data key="d1">1164</data>
+      <data key="d1">1163</data>
       <data key="d2">76</data>
-      <data key="d3">0.06529209621993128</data>
+      <data key="d3">0.06534823731728288</data>
       <data key="d4">1</data>
       <data key="d5">10</data>
       <data key="d6">1</data>
-      <data key="d7">1088</data>
+      <data key="d7">1087</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.6056985294117647</data>
+      <data key="d9">0.6053357865685373</data>
     </node>
     <node id="241430">
       <data key="d0">Timbaúba dos Batistas</data>
@@ -1910,15 +1910,15 @@
     </node>
     <node id="241440">
       <data key="d0">Touros</data>
-      <data key="d1">2319</data>
+      <data key="d1">2296</data>
       <data key="d2">401</data>
-      <data key="d3">0.17291936179387668</data>
+      <data key="d3">0.17465156794425088</data>
       <data key="d4">6</data>
       <data key="d5">15</data>
       <data key="d6">19</data>
-      <data key="d7">1918</data>
+      <data key="d7">1895</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.7095933263816475</data>
+      <data key="d9">0.7060686015831135</data>
     </node>
     <node id="241445">
       <data key="d0">Triunfo Potiguar</data>
@@ -1946,15 +1946,15 @@
     </node>
     <node id="241460">
       <data key="d0">Upanema</data>
-      <data key="d1">766</data>
+      <data key="d1">765</data>
       <data key="d2">107</data>
-      <data key="d3">0.13968668407310705</data>
+      <data key="d3">0.13986928104575164</data>
       <data key="d4">0</data>
       <data key="d5">10</data>
       <data key="d6">0</data>
-      <data key="d7">659</data>
+      <data key="d7">658</data>
       <data key="d8">Mossoró</data>
-      <data key="d9">0.6798179059180577</data>
+      <data key="d9">0.6793313069908815</data>
     </node>
     <node id="241470">
       <data key="d0">Várzea</data>
@@ -2006,15 +2006,15 @@
     </node>
     <node id="241500">
       <data key="d0">Vila Flor</data>
-      <data key="d1">252</data>
+      <data key="d1">240</data>
       <data key="d2">0</data>
       <data key="d3">0.0</data>
       <data key="d4">0</data>
       <data key="d5">5</data>
       <data key="d6">0</data>
-      <data key="d7">252</data>
+      <data key="d7">240</data>
       <data key="d8">Natal</data>
-      <data key="d9">0.5992063492063492</data>
+      <data key="d9">0.5791666666666667</data>
     </node>
     <edge source="240010" target="240060">
       <data key="d10">1</data>
@@ -2158,7 +2158,7 @@
       <data key="d10">177</data>
     </edge>
     <edge source="240050" target="240810">
-      <data key="d10">130</data>
+      <data key="d10">120</data>
     </edge>
     <edge source="240050" target="240940">
       <data key="d10">171</data>
@@ -2320,7 +2320,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="240100" target="240800">
-      <data key="d10">1032</data>
+      <data key="d10">1029</data>
     </edge>
     <edge source="240100" target="240810">
       <data key="d10">198</data>
@@ -2365,7 +2365,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="240110" target="240800">
-      <data key="d10">918</data>
+      <data key="d10">914</data>
     </edge>
     <edge source="240110" target="240810">
       <data key="d10">87</data>
@@ -2428,7 +2428,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="240130" target="240800">
-      <data key="d10">303</data>
+      <data key="d10">301</data>
     </edge>
     <edge source="240130" target="240810">
       <data key="d10">45</data>
@@ -2494,7 +2494,7 @@
       <data key="d10">7</data>
     </edge>
     <edge source="240145" target="240800">
-      <data key="d10">1121</data>
+      <data key="d10">1120</data>
     </edge>
     <edge source="240145" target="240810">
       <data key="d10">120</data>
@@ -2566,7 +2566,7 @@
       <data key="d10">7</data>
     </edge>
     <edge source="240160" target="240810">
-      <data key="d10">219</data>
+      <data key="d10">205</data>
     </edge>
     <edge source="240160" target="241120">
       <data key="d10">7</data>
@@ -2614,7 +2614,7 @@
       <data key="d10">3</data>
     </edge>
     <edge source="240170" target="240810">
-      <data key="d10">362</data>
+      <data key="d10">358</data>
     </edge>
     <edge source="240170" target="241120">
       <data key="d10">193</data>
@@ -2644,7 +2644,7 @@
       <data key="d10">2</data>
     </edge>
     <edge source="240180" target="240810">
-      <data key="d10">553</data>
+      <data key="d10">551</data>
     </edge>
     <edge source="240180" target="241120">
       <data key="d10">5</data>
@@ -2710,7 +2710,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="240190" target="240810">
-      <data key="d10">242</data>
+      <data key="d10">240</data>
     </edge>
     <edge source="240190" target="241120">
       <data key="d10">4</data>
@@ -2767,7 +2767,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="240210" target="240810">
-      <data key="d10">275</data>
+      <data key="d10">272</data>
     </edge>
     <edge source="240210" target="241120">
       <data key="d10">179</data>
@@ -2800,7 +2800,7 @@
       <data key="d10">5</data>
     </edge>
     <edge source="240220" target="240810">
-      <data key="d10">1148</data>
+      <data key="d10">1143</data>
     </edge>
     <edge source="240220" target="241120">
       <data key="d10">5</data>
@@ -2845,7 +2845,7 @@
       <data key="d10">694</data>
     </edge>
     <edge source="240230" target="240810">
-      <data key="d10">120</data>
+      <data key="d10">119</data>
     </edge>
     <edge source="240230" target="240940">
       <data key="d10">8</data>
@@ -2941,7 +2941,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="240260" target="240810">
-      <data key="d10">2730</data>
+      <data key="d10">2701</data>
     </edge>
     <edge source="240260" target="241120">
       <data key="d10">13</data>
@@ -2974,7 +2974,7 @@
       <data key="d10">2</data>
     </edge>
     <edge source="240270" target="240810">
-      <data key="d10">297</data>
+      <data key="d10">296</data>
     </edge>
     <edge source="240270" target="241120">
       <data key="d10">153</data>
@@ -3088,7 +3088,7 @@
       <data key="d10">5</data>
     </edge>
     <edge source="240310" target="240810">
-      <data key="d10">986</data>
+      <data key="d10">973</data>
     </edge>
     <edge source="240310" target="241120">
       <data key="d10">59</data>
@@ -3154,7 +3154,7 @@
       <data key="d10">9</data>
     </edge>
     <edge source="240325" target="240810">
-      <data key="d10">6485</data>
+      <data key="d10">6420</data>
     </edge>
     <edge source="240325" target="240940">
       <data key="d10">1</data>
@@ -3238,7 +3238,7 @@
       <data key="d10">2</data>
     </edge>
     <edge source="240350" target="240810">
-      <data key="d10">342</data>
+      <data key="d10">334</data>
     </edge>
     <edge source="240350" target="241120">
       <data key="d10">6</data>
@@ -3280,7 +3280,7 @@
       <data key="d10">2</data>
     </edge>
     <edge source="240360" target="240810">
-      <data key="d10">2362</data>
+      <data key="d10">2343</data>
     </edge>
     <edge source="240360" target="240940">
       <data key="d10">5</data>
@@ -3463,7 +3463,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="240420" target="240810">
-      <data key="d10">945</data>
+      <data key="d10">943</data>
     </edge>
     <edge source="240420" target="241120">
       <data key="d10">27</data>
@@ -3520,7 +3520,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="240440" target="240800">
-      <data key="d10">432</data>
+      <data key="d10">431</data>
     </edge>
     <edge source="240440" target="240810">
       <data key="d10">64</data>
@@ -3556,7 +3556,7 @@
       <data key="d10">2</data>
     </edge>
     <edge source="240450" target="240810">
-      <data key="d10">678</data>
+      <data key="d10">676</data>
     </edge>
     <edge source="240450" target="241120">
       <data key="d10">5</data>
@@ -3595,7 +3595,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="240460" target="240810">
-      <data key="d10">388</data>
+      <data key="d10">383</data>
     </edge>
     <edge source="240460" target="241120">
       <data key="d10">3</data>
@@ -3730,7 +3730,7 @@
       <data key="d10">2</data>
     </edge>
     <edge source="240500" target="240810">
-      <data key="d10">287</data>
+      <data key="d10">284</data>
     </edge>
     <edge source="240500" target="241120">
       <data key="d10">188</data>
@@ -3838,7 +3838,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="240530" target="240810">
-      <data key="d10">234</data>
+      <data key="d10">233</data>
     </edge>
     <edge source="240530" target="241120">
       <data key="d10">151</data>
@@ -3991,7 +3991,7 @@
       <data key="d10">20</data>
     </edge>
     <edge source="240580" target="240810">
-      <data key="d10">1357</data>
+      <data key="d10">1351</data>
     </edge>
     <edge source="240580" target="241120">
       <data key="d10">23</data>
@@ -4099,7 +4099,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="240615" target="240810">
-      <data key="d10">139</data>
+      <data key="d10">127</data>
     </edge>
     <edge source="240615" target="241120">
       <data key="d10">9</data>
@@ -4120,7 +4120,7 @@
       <data key="d10">29</data>
     </edge>
     <edge source="240620" target="240810">
-      <data key="d10">240</data>
+      <data key="d10">237</data>
     </edge>
     <edge source="240620" target="241120">
       <data key="d10">79</data>
@@ -4183,7 +4183,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="240640" target="240810">
-      <data key="d10">75</data>
+      <data key="d10">74</data>
     </edge>
     <edge source="240640" target="241120">
       <data key="d10">38</data>
@@ -4378,7 +4378,7 @@
       <data key="d10">287</data>
     </edge>
     <edge source="240710" target="240810">
-      <data key="d10">3060</data>
+      <data key="d10">3049</data>
     </edge>
     <edge source="240710" target="241120">
       <data key="d10">11</data>
@@ -4423,7 +4423,7 @@
       <data key="d10">13</data>
     </edge>
     <edge source="240720" target="240810">
-      <data key="d10">932</data>
+      <data key="d10">917</data>
     </edge>
     <edge source="240720" target="241120">
       <data key="d10">4</data>
@@ -4543,7 +4543,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="240750" target="240810">
-      <data key="d10">418</data>
+      <data key="d10">416</data>
     </edge>
     <edge source="240750" target="241120">
       <data key="d10">2</data>
@@ -4624,7 +4624,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="240780" target="240810">
-      <data key="d10">943</data>
+      <data key="d10">925</data>
     </edge>
     <edge source="240780" target="241120">
       <data key="d10">2</data>
@@ -4825,7 +4825,7 @@
       <data key="d10">8</data>
     </edge>
     <edge source="240820" target="240810">
-      <data key="d10">1029</data>
+      <data key="d10">1023</data>
     </edge>
     <edge source="240820" target="241120">
       <data key="d10">12</data>
@@ -4855,7 +4855,7 @@
       <data key="d10">6</data>
     </edge>
     <edge source="240830" target="240810">
-      <data key="d10">1112</data>
+      <data key="d10">1084</data>
     </edge>
     <edge source="240830" target="241120">
       <data key="d10">27</data>
@@ -5197,7 +5197,7 @@
       <data key="d10">17</data>
     </edge>
     <edge source="240940" target="240800">
-      <data key="d10">330</data>
+      <data key="d10">329</data>
     </edge>
     <edge source="240940" target="240810">
       <data key="d10">282</data>
@@ -5341,7 +5341,7 @@
       <data key="d10">2</data>
     </edge>
     <edge source="240980" target="240810">
-      <data key="d10">538</data>
+      <data key="d10">527</data>
     </edge>
     <edge source="240980" target="241120">
       <data key="d10">4</data>
@@ -5452,7 +5452,7 @@
       <data key="d10">8</data>
     </edge>
     <edge source="241010" target="240810">
-      <data key="d10">513</data>
+      <data key="d10">504</data>
     </edge>
     <edge source="241010" target="240940">
       <data key="d10">1</data>
@@ -5845,7 +5845,7 @@
       <data key="d10">3</data>
     </edge>
     <edge source="241120" target="240810">
-      <data key="d10">1227</data>
+      <data key="d10">1226</data>
     </edge>
     <edge source="241120" target="240940">
       <data key="d10">1</data>
@@ -5941,7 +5941,7 @@
       <data key="d10">3</data>
     </edge>
     <edge source="241150" target="240810">
-      <data key="d10">780</data>
+      <data key="d10">768</data>
     </edge>
     <edge source="241150" target="240830">
       <data key="d10">4</data>
@@ -6082,7 +6082,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="241200" target="240810">
-      <data key="d10">3797</data>
+      <data key="d10">3791</data>
     </edge>
     <edge source="241200" target="240940">
       <data key="d10">1</data>
@@ -6106,7 +6106,7 @@
       <data key="d10">7</data>
     </edge>
     <edge source="241210" target="240810">
-      <data key="d10">103</data>
+      <data key="d10">102</data>
     </edge>
     <edge source="241220" target="240020">
       <data key="d10">1</data>
@@ -6139,7 +6139,7 @@
       <data key="d10">3</data>
     </edge>
     <edge source="241220" target="240810">
-      <data key="d10">2069</data>
+      <data key="d10">2022</data>
     </edge>
     <edge source="241220" target="241120">
       <data key="d10">31</data>
@@ -6277,7 +6277,7 @@
       <data key="d10">11</data>
     </edge>
     <edge source="241255" target="240810">
-      <data key="d10">510</data>
+      <data key="d10">507</data>
     </edge>
     <edge source="241255" target="241120">
       <data key="d10">1</data>
@@ -6445,7 +6445,7 @@
       <data key="d10">2</data>
     </edge>
     <edge source="241300" target="240810">
-      <data key="d10">224</data>
+      <data key="d10">221</data>
     </edge>
     <edge source="241300" target="241120">
       <data key="d10">16</data>
@@ -6469,7 +6469,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="241310" target="240810">
-      <data key="d10">192</data>
+      <data key="d10">191</data>
     </edge>
     <edge source="241310" target="241120">
       <data key="d10">83</data>
@@ -6514,7 +6514,7 @@
       <data key="d10">28</data>
     </edge>
     <edge source="241330" target="240810">
-      <data key="d10">234</data>
+      <data key="d10">233</data>
     </edge>
     <edge source="241330" target="240910">
       <data key="d10">14</data>
@@ -6643,7 +6643,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="241360" target="240800">
-      <data key="d10">98</data>
+      <data key="d10">97</data>
     </edge>
     <edge source="241360" target="240810">
       <data key="d10">21</data>
@@ -6733,7 +6733,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="241390" target="240810">
-      <data key="d10">440</data>
+      <data key="d10">439</data>
     </edge>
     <edge source="241390" target="240940">
       <data key="d10">1</data>
@@ -6835,7 +6835,7 @@
       <data key="d10">3</data>
     </edge>
     <edge source="241420" target="240810">
-      <data key="d10">659</data>
+      <data key="d10">658</data>
     </edge>
     <edge source="241420" target="240910">
       <data key="d10">59</data>
@@ -6895,7 +6895,7 @@
       <data key="d10">3</data>
     </edge>
     <edge source="241440" target="240810">
-      <data key="d10">1361</data>
+      <data key="d10">1338</data>
     </edge>
     <edge source="241440" target="240910">
       <data key="d10">2</data>
@@ -7000,7 +7000,7 @@
       <data key="d10">8</data>
     </edge>
     <edge source="241460" target="240800">
-      <data key="d10">448</data>
+      <data key="d10">447</data>
     </edge>
     <edge source="241460" target="240810">
       <data key="d10">116</data>
@@ -7135,7 +7135,7 @@
       <data key="d10">1</data>
     </edge>
     <edge source="241500" target="240810">
-      <data key="d10">151</data>
+      <data key="d10">139</data>
     </edge>
     <edge source="241500" target="241150">
       <data key="d10">26</data>
