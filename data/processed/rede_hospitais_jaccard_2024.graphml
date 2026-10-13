@@ -6,89 +6,11 @@
   <key id="d1" for="node" attr.name="municipio" attr.type="string" />
   <key id="d0" for="node" attr.name="label" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="2409208">
-      <data key="d0">Maternidade Escola Januario Cicco</data>
-      <data key="d1">Natal</data>
-      <data key="d2">3932</data>
-      <data key="d3">71</data>
-    </node>
-    <node id="2409151">
-      <data key="d0">Hospital Infantil Varela Santiago</data>
-      <data key="d1">Natal</data>
-      <data key="d2">3125</data>
-      <data key="d3">66</data>
-    </node>
-    <node id="2653923">
-      <data key="d0">Hospital Monsenhor Walfredo Gurgel</data>
-      <data key="d1">Natal</data>
-      <data key="d2">11779</data>
-      <data key="d3">107</data>
-    </node>
-    <node id="2408260">
-      <data key="d0">Hospital Geral Dr Joao Machado</data>
-      <data key="d1">Natal</data>
-      <data key="d2">1793</data>
-      <data key="d3">47</data>
-    </node>
-    <node id="2654261">
-      <data key="d0">Hospital Maria Alice Fernandes</data>
-      <data key="d1">Natal</data>
-      <data key="d2">1737</data>
-      <data key="d3">51</data>
-    </node>
-    <node id="2679469">
-      <data key="d0">Hospital Central Coronel Pedro Germano</data>
-      <data key="d1">Natal</data>
-      <data key="d2">2364</data>
-      <data key="d3">53</data>
-    </node>
-    <node id="4093577">
-      <data key="d0">Hospital Regional Da Mulher Parteira Maria Correia</data>
+    <node id="2371707">
+      <data key="d0">Hospital Wilson Rosado</data>
       <data key="d1">Mossoró</data>
-      <data key="d2">211</data>
-      <data key="d3">9</data>
-    </node>
-    <node id="2389215">
-      <data key="d0">Hospital Psiquiatrico De Mossoro Dr Milton Marq De Medeiros</data>
-      <data key="d1">Mossoró</data>
-      <data key="d2">271</data>
-      <data key="d3">11</data>
-    </node>
-    <node id="2503654">
-      <data key="d0">Hospital Rafael Fernandes</data>
-      <data key="d1">Mossoró</data>
-      <data key="d2">320</data>
-      <data key="d3">13</data>
-    </node>
-    <node id="2408570">
-      <data key="d0">Hospital Dr Jose Pedro Bezerra</data>
-      <data key="d1">Natal</data>
-      <data key="d2">4992</data>
-      <data key="d3">35</data>
-    </node>
-    <node id="2800950">
-      <data key="d0">Hospital Dr Percilio Alves De Oliveira</data>
-      <data key="d1">Ceará-Mirim</data>
-      <data key="d2">1421</data>
-      <data key="d3">22</data>
-    </node>
-    <node id="2474751">
-      <data key="d0">Hospital Regional De Joao Camara</data>
-      <data key="d1">João Câmara</data>
-      <data key="d2">399</data>
-      <data key="d3">20</data>
-    </node>
-    <node id="2656930">
-      <data key="d0">Hospital Rio Grande</data>
-      <data key="d1">Natal</data>
-      <data key="d2">206</data>
-      <data key="d3">5</data>
-    </node>
-    <node id="2409186">
-      <data key="d0">Hospital Psiquiatrico Professor Severino Lopes</data>
-      <data key="d1">Natal</data>
-      <data key="d2">116</data>
-      <data key="d3">3</data>
+      <data key="d2">1232</data>
+      <data key="d3">41</data>
     </node>
     <node id="2375265">
       <data key="d0">Hospital Regional Lindolfo Gomes Vidal</data>
@@ -96,29 +18,53 @@
       <data key="d2">789</data>
       <data key="d3">23</data>
     </node>
-    <node id="2560089">
-      <data key="d0">Hospital Regional Monsenhor Antonio Barros</data>
-      <data key="d1">São José de Mipibu</data>
-      <data key="d2">3866</data>
-      <data key="d3">25</data>
-    </node>
-    <node id="2371707">
-      <data key="d0">Hospital Wilson Rosado</data>
+    <node id="2389215">
+      <data key="d0">Hospital Psiquiatrico De Mossoro Dr Milton Marq De Medeiros</data>
       <data key="d1">Mossoró</data>
-      <data key="d2">1232</data>
-      <data key="d3">41</data>
+      <data key="d2">271</data>
+      <data key="d3">11</data>
     </node>
-    <node id="3675580">
-      <data key="d0">Hospital Da Lmecc</data>
-      <data key="d1">Mossoró</data>
-      <data key="d2">1952</data>
-      <data key="d3">49</data>
+    <node id="2408252">
+      <data key="d0">Hospital Memorial Sao Francisco</data>
+      <data key="d1">Natal</data>
+      <data key="d2">615</data>
+      <data key="d3">18</data>
     </node>
-    <node id="2503689">
-      <data key="d0">Hospital Regional Dr Tarcisio De Vasconcelos Maia</data>
-      <data key="d1">Mossoró</data>
-      <data key="d2">3843</data>
-      <data key="d3">40</data>
+    <node id="2408260">
+      <data key="d0">Hospital Geral Dr Joao Machado</data>
+      <data key="d1">Natal</data>
+      <data key="d2">1793</data>
+      <data key="d3">47</data>
+    </node>
+    <node id="2408570">
+      <data key="d0">Hospital Dr Jose Pedro Bezerra</data>
+      <data key="d1">Natal</data>
+      <data key="d2">4992</data>
+      <data key="d3">35</data>
+    </node>
+    <node id="2409151">
+      <data key="d0">Hospital Infantil Varela Santiago</data>
+      <data key="d1">Natal</data>
+      <data key="d2">3125</data>
+      <data key="d3">66</data>
+    </node>
+    <node id="2409186">
+      <data key="d0">Hospital Psiquiatrico Professor Severino Lopes</data>
+      <data key="d1">Natal</data>
+      <data key="d2">116</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="2409194">
+      <data key="d0">Hospital Dr Luiz Antonio</data>
+      <data key="d1">Natal</data>
+      <data key="d2">440</data>
+      <data key="d3">10</data>
+    </node>
+    <node id="2409208">
+      <data key="d0">Maternidade Escola Januario Cicco</data>
+      <data key="d1">Natal</data>
+      <data key="d2">3932</data>
+      <data key="d3">71</data>
     </node>
     <node id="2410281">
       <data key="d0">Hospital Maternidade Almeida Castro</data>
@@ -126,23 +72,41 @@
       <data key="d2">5275</data>
       <data key="d3">54</data>
     </node>
-    <node id="2665778">
-      <data key="d0">Hospital Do Serido</data>
-      <data key="d1">Caicó</data>
-      <data key="d2">505</data>
-      <data key="d3">12</data>
+    <node id="2473380">
+      <data key="d0">Hospital Maternidade Do Divino Amor</data>
+      <data key="d1">Parnamirim</data>
+      <data key="d2">175</data>
+      <data key="d3">5</data>
     </node>
-    <node id="6778550">
-      <data key="d0">Hospital Estadual Telecila Freitas Fontes</data>
-      <data key="d1">Caicó</data>
-      <data key="d2">2260</data>
-      <data key="d3">24</data>
+    <node id="2474751">
+      <data key="d0">Hospital Regional De Joao Camara</data>
+      <data key="d1">João Câmara</data>
+      <data key="d2">399</data>
+      <data key="d3">20</data>
     </node>
-    <node id="2409194">
-      <data key="d0">Hospital Dr Luiz Antonio</data>
+    <node id="2503654">
+      <data key="d0">Hospital Rafael Fernandes</data>
+      <data key="d1">Mossoró</data>
+      <data key="d2">320</data>
+      <data key="d3">13</data>
+    </node>
+    <node id="2503689">
+      <data key="d0">Hospital Regional Dr Tarcisio De Vasconcelos Maia</data>
+      <data key="d1">Mossoró</data>
+      <data key="d2">3843</data>
+      <data key="d3">40</data>
+    </node>
+    <node id="2560089">
+      <data key="d0">Hospital Regional Monsenhor Antonio Barros</data>
+      <data key="d1">São José de Mipibu</data>
+      <data key="d2">3866</data>
+      <data key="d3">25</data>
+    </node>
+    <node id="2653923">
+      <data key="d0">Hospital Monsenhor Walfredo Gurgel</data>
       <data key="d1">Natal</data>
-      <data key="d2">440</data>
-      <data key="d3">10</data>
+      <data key="d2">11779</data>
+      <data key="d3">107</data>
     </node>
     <node id="2653931">
       <data key="d0">Maternidade Araken Irere Pinto</data>
@@ -156,35 +120,29 @@
       <data key="d2">563</data>
       <data key="d3">14</data>
     </node>
-    <node id="4014235">
-      <data key="d0">Hospital Maternidade Belarmina Monte</data>
-      <data key="d1">São Gonçalo do Amarante</data>
-      <data key="d2">92</data>
-      <data key="d3">4</data>
-    </node>
-    <node id="6108547">
-      <data key="d0">Maternidade Professor Leide Morais</data>
+    <node id="2654261">
+      <data key="d0">Hospital Maria Alice Fernandes</data>
       <data key="d1">Natal</data>
-      <data key="d2">56</data>
-      <data key="d3">3</data>
+      <data key="d2">1737</data>
+      <data key="d3">51</data>
     </node>
-    <node id="2473380">
-      <data key="d0">Hospital Maternidade Do Divino Amor</data>
-      <data key="d1">Parnamirim</data>
-      <data key="d2">175</data>
+    <node id="2656930">
+      <data key="d0">Hospital Rio Grande</data>
+      <data key="d1">Natal</data>
+      <data key="d2">206</data>
       <data key="d3">5</data>
     </node>
-    <node id="4013484">
-      <data key="d0">Hospital Giselda Trigueiro</data>
-      <data key="d1">Natal</data>
-      <data key="d2">656</data>
-      <data key="d3">17</data>
+    <node id="2665778">
+      <data key="d0">Hospital Do Serido</data>
+      <data key="d1">Caicó</data>
+      <data key="d2">505</data>
+      <data key="d3">12</data>
     </node>
-    <node id="2408252">
-      <data key="d0">Hospital Memorial Sao Francisco</data>
+    <node id="2679469">
+      <data key="d0">Hospital Central Coronel Pedro Germano</data>
       <data key="d1">Natal</data>
-      <data key="d2">615</data>
-      <data key="d3">18</data>
+      <data key="d2">2364</data>
+      <data key="d3">53</data>
     </node>
     <node id="2680033">
       <data key="d0">Prontoclinica Da Crianca Dr Paulo Gurgel</data>
@@ -192,20 +150,68 @@
       <data key="d2">791</data>
       <data key="d3">22</data>
     </node>
-    <edge source="2409208" target="2409151">
-      <data key="d4">0.5054945054945055</data>
+    <node id="2800950">
+      <data key="d0">Hospital Dr Percilio Alves De Oliveira</data>
+      <data key="d1">Ceará-Mirim</data>
+      <data key="d2">1421</data>
+      <data key="d3">22</data>
+    </node>
+    <node id="3675580">
+      <data key="d0">Hospital Da Lmecc</data>
+      <data key="d1">Mossoró</data>
+      <data key="d2">1952</data>
+      <data key="d3">49</data>
+    </node>
+    <node id="4013484">
+      <data key="d0">Hospital Giselda Trigueiro</data>
+      <data key="d1">Natal</data>
+      <data key="d2">656</data>
+      <data key="d3">17</data>
+    </node>
+    <node id="4014235">
+      <data key="d0">Hospital Maternidade Belarmina Monte</data>
+      <data key="d1">São Gonçalo do Amarante</data>
+      <data key="d2">92</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="4093577">
+      <data key="d0">Hospital Regional Da Mulher Parteira Maria Correia</data>
+      <data key="d1">Mossoró</data>
+      <data key="d2">211</data>
+      <data key="d3">9</data>
+    </node>
+    <node id="6108547">
+      <data key="d0">Maternidade Professor Leide Morais</data>
+      <data key="d1">Natal</data>
+      <data key="d2">56</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="6778550">
+      <data key="d0">Hospital Estadual Telecila Freitas Fontes</data>
+      <data key="d1">Caicó</data>
+      <data key="d2">2260</data>
+      <data key="d3">24</data>
+    </node>
+    <edge source="2371707" target="2410281">
+      <data key="d4">0.6666666666666666</data>
     </edge>
-    <edge source="2409208" target="2653923">
-      <data key="d4">0.6181818181818182</data>
+    <edge source="2371707" target="2503689">
+      <data key="d4">0.723404255319149</data>
     </edge>
-    <edge source="2409151" target="2654261">
-      <data key="d4">0.5</data>
+    <edge source="2371707" target="3675580">
+      <data key="d4">0.6666666666666666</data>
     </edge>
-    <edge source="2409151" target="2653923">
-      <data key="d4">0.5043478260869565</data>
+    <edge source="2375265" target="2560089">
+      <data key="d4">0.6551724137931034</data>
     </edge>
-    <edge source="2409151" target="2679469">
-      <data key="d4">0.5063291139240507</data>
+    <edge source="2389215" target="4093577">
+      <data key="d4">0.5384615384615384</data>
+    </edge>
+    <edge source="2408252" target="2680033">
+      <data key="d4">0.6</data>
+    </edge>
+    <edge source="2408252" target="4013484">
+      <data key="d4">0.5909090909090909</data>
     </edge>
     <edge source="2408260" target="2654261">
       <data key="d4">0.5555555555555556</data>
@@ -213,59 +219,53 @@
     <edge source="2408260" target="2679469">
       <data key="d4">0.5151515151515151</data>
     </edge>
-    <edge source="2654261" target="2679469">
-      <data key="d4">0.5757575757575758</data>
-    </edge>
-    <edge source="4093577" target="2389215">
-      <data key="d4">0.5384615384615384</data>
-    </edge>
-    <edge source="4093577" target="2503654">
+    <edge source="2408570" target="2474751">
       <data key="d4">0.5714285714285714</data>
     </edge>
     <edge source="2408570" target="2800950">
       <data key="d4">0.6285714285714286</data>
     </edge>
-    <edge source="2408570" target="2474751">
-      <data key="d4">0.5714285714285714</data>
+    <edge source="2409151" target="2409208">
+      <data key="d4">0.5054945054945055</data>
     </edge>
-    <edge source="2800950" target="2474751">
-      <data key="d4">0.68</data>
+    <edge source="2409151" target="2653923">
+      <data key="d4">0.5043478260869565</data>
     </edge>
-    <edge source="2656930" target="2409186">
-      <data key="d4">0.6</data>
+    <edge source="2409151" target="2654261">
+      <data key="d4">0.5</data>
+    </edge>
+    <edge source="2409151" target="2679469">
+      <data key="d4">0.5063291139240507</data>
     </edge>
     <edge source="2409186" target="2473380">
       <data key="d4">0.6</data>
     </edge>
-    <edge source="2375265" target="2560089">
-      <data key="d4">0.6551724137931034</data>
-    </edge>
-    <edge source="2371707" target="3675580">
-      <data key="d4">0.6666666666666666</data>
-    </edge>
-    <edge source="2371707" target="2503689">
-      <data key="d4">0.723404255319149</data>
-    </edge>
-    <edge source="2371707" target="2410281">
-      <data key="d4">0.6666666666666666</data>
-    </edge>
-    <edge source="3675580" target="2410281">
-      <data key="d4">0.609375</data>
-    </edge>
-    <edge source="3675580" target="2503689">
-      <data key="d4">0.6481481481481481</data>
-    </edge>
-    <edge source="2503689" target="2410281">
-      <data key="d4">0.7090909090909091</data>
-    </edge>
-    <edge source="2665778" target="6778550">
-      <data key="d4">0.5</data>
+    <edge source="2409186" target="2656930">
+      <data key="d4">0.6</data>
     </edge>
     <edge source="2409194" target="2653931">
       <data key="d4">0.5</data>
     </edge>
     <edge source="2409194" target="2653982">
       <data key="d4">0.5</data>
+    </edge>
+    <edge source="2409208" target="2653923">
+      <data key="d4">0.6181818181818182</data>
+    </edge>
+    <edge source="2410281" target="2503689">
+      <data key="d4">0.7090909090909091</data>
+    </edge>
+    <edge source="2410281" target="3675580">
+      <data key="d4">0.609375</data>
+    </edge>
+    <edge source="2474751" target="2800950">
+      <data key="d4">0.68</data>
+    </edge>
+    <edge source="2503654" target="4093577">
+      <data key="d4">0.5714285714285714</data>
+    </edge>
+    <edge source="2503689" target="3675580">
+      <data key="d4">0.6481481481481481</data>
     </edge>
     <edge source="2653931" target="4014235">
       <data key="d4">0.5</data>
@@ -276,17 +276,17 @@
     <edge source="2653982" target="4013484">
       <data key="d4">0.55</data>
     </edge>
-    <edge source="4014235" target="6108547">
-      <data key="d4">0.75</data>
+    <edge source="2654261" target="2679469">
+      <data key="d4">0.5757575757575758</data>
     </edge>
-    <edge source="4013484" target="2408252">
-      <data key="d4">0.5909090909090909</data>
+    <edge source="2665778" target="6778550">
+      <data key="d4">0.5</data>
     </edge>
-    <edge source="4013484" target="2680033">
+    <edge source="2680033" target="4013484">
       <data key="d4">0.625</data>
     </edge>
-    <edge source="2408252" target="2680033">
-      <data key="d4">0.6</data>
+    <edge source="4014235" target="6108547">
+      <data key="d4">0.75</data>
     </edge>
   </graph>
 </graphml>

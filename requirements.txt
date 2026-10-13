@@ -1,0 +1,14 @@
+# Python 3.12
+# coleta (01_coleta)
+dbfread==2.0.7
+pyreaddbc==2.0.4
+# análise e figuras (02_rede, 03_analise)
+pandas==2.3.3
+numpy==2.5.3
+pyarrow==25.0.1
+networkx==3.7
+scipy==1.18.1
+matplotlib==3.11.2
+# execução dos notebooks
+ipykernel==7.3.0
+nbconvert==7.17.1
