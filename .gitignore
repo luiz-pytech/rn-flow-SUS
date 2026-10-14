@@ -1,2 +1,10 @@
 data/raw
 .venv
+
+docs/vid/me/
+docs/vid/*/*.png
+docs/vid/*/*.mp4
+!docs/vid/dados/
+docs/vid/montagem/node_modules/
+docs/vid/montagem/public/
+docs/vid/montagem/out/

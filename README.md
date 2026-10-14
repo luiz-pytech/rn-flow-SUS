@@ -8,6 +8,8 @@ Projeto da Unidade 01 de **Algoritmos e Estruturas de Dados II** (DCA3702, UFRN)
 
 ## Vídeo
 
+https://youtu.be/_sTNo7asOMg
+
 ## Problema e pergunta
 
 No Rio Grande do Norte, a maior parte dos municípios não tem hospital capaz de atender as próprias urgências: 83 dos 167 municípios não tiveram nenhuma internação de urgência no próprio município em 2024. O paciente é internado em outro lugar, quase sempre num punhado de polos.
@@ -53,7 +55,7 @@ No Rio Grande do Norte, a maior parte dos municípios não tem hospital capaz de
 
 **Alternativas consideradas e o efeito das escolhas**
 
-- **Multicamada contra rede agregada.** Na rede total, Almino Afonso, Currais Novos e Santo Antônio parecem polos regionais. Separando as camadas, eles são polos de mutirão eletivo (catarata e vesícula, um hospital cada) e somem da urgência. Por isso a análise usa a camada de urgência.
+- **Multicamada contra rede agregada.** Na rede total, Almino Afonso, Currais Novos e Santo Antônio parecem polos regionais. Separando as camadas, a maior parte do que recebem é eletiva e concentrada em procedimentos típicos de mutirão: catarata em Almino Afonso (praticamente só eletiva, em um único hospital) e vesícula em Currais Novos e Santo Antônio (cerca de 2/3 eletiva), que mantêm um papel menor na urgência. Por isso a análise usa a camada de urgência.
 - **Bipartida.** A rede município → município diz qual cidade é polo; a projeção da rede município ↔ hospital diz quais hospitais atendem as mesmas populações. As duas apontam as mesmas alternativas regionais.
 - **Temporal.** A rede é anual (12 meses de 2024). Uma rede por mês mostraria sazonalidade, mas cada mês teria poucas internações por ligação; fica como próximo passo.
 - **Filtro de "rota estabelecida".** Na rede completa, um único paciente no ano já cria uma aresta. Para dizer se um município "tem alternativa", contamos só as ligações com pelo menos 10 internações no ano (`LIMIAR`). Esse limiar é uma escolha do projeto, e a seção 8 testa de 1 a 30.
