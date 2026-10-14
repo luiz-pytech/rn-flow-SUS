@@ -8,3 +8,8 @@ docs/vid/*/*.mp4
 docs/vid/montagem/node_modules/
 docs/vid/montagem/public/
 docs/vid/montagem/out/
+docs/roteiro.txt
+docs/vid/LEIAME.md
+docs/vid/montagem/
+!docs/vid/montagem/preparar.py
+!docs/vid/montagem/miniatura.py
